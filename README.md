@@ -54,3 +54,5 @@ define('DB_NAME', 'radius');
 - Always restrict admin access (VPN / HTTPS / IP Whitelist).
 - Replace `FROM_EMAIL` with a real, SPF/DKIM-configured domain.
 - Use a secure password for `ADMIN_PASSWORD`.
+
+Created with ❤️ by [Ömer Uzun](https://github.com/uzunomer)
